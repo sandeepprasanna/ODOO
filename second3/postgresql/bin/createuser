@@ -1,0 +1,3 @@
+#!/bin/sh
+. /home/administrator/second3/postgresql/bin/setenv.sh
+exec /home/administrator/second3/postgresql/bin/createuser.bin "$@"
