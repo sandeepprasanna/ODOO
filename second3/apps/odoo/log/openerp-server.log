@@ -1,0 +1,291 @@
+2016-03-05 07:25:53,448 23303 INFO ? openerp: OpenERP version 8.0-a2115ef
+2016-03-05 07:25:53,448 23303 INFO ? openerp: addons paths: ['/home/administrator/second3/apps/odoo/data/addons/8.0', u'/home/administrator/second3/apps/odoo/lib/odoo-8.0_a2115ef-py2.7.egg/openerp/addons']
+2016-03-05 07:25:53,448 23303 INFO ? openerp: database hostname: 127.0.0.1
+2016-03-05 07:25:53,448 23303 INFO ? openerp: database port: 5456
+2016-03-05 07:25:53,448 23303 INFO ? openerp: database user: bn_openerp
+2016-03-05 07:25:53,676 23303 INFO ? openerp.modules.loading: init db
+2016-03-05 07:25:58,187 23303 INFO bitnami_openerp openerp.modules.loading: loading 1 modules...
+2016-03-05 07:25:58,592 23303 INFO bitnami_openerp openerp.modules.module: module base: creating or updating database tables
+2016-03-05 07:26:04,329 23303 INFO bitnami_openerp openerp.models: Computing parent left and right for table ir_ui_menu...
+2016-03-05 07:26:26,588 23303 INFO bitnami_openerp openerp.models: Computing parent left and right for table res_partner_category...
+2016-03-05 07:26:40,409 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'web_icon_data'
+2016-03-05 07:26:40,410 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'web_icon_hover_data'
+2016-03-05 07:26:40,411 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'needaction_enabled'
+2016-03-05 07:26:40,411 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'report_file'
+2016-03-05 07:26:40,412 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'crud_model_name'
+2016-03-05 07:26:40,412 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'wkf_model_name'
+2016-03-05 07:26:40,413 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'global'
+2016-03-05 07:26:40,413 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'menus_by_module'
+2016-03-05 07:26:40,823 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'views_by_module'
+2016-03-05 07:26:41,101 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'reports_by_module'
+2016-03-05 07:26:41,389 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'display_name'
+2016-03-05 07:26:41,399 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'image_medium'
+2016-03-05 07:26:41,401 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'image_small'
+2016-03-05 07:26:41,403 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'commercial_partner_id'
+2016-03-05 07:26:41,406 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'logo_web'
+2016-03-05 07:26:41,411 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'email'
+2016-03-05 07:26:41,412 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'phone'
+2016-03-05 07:26:41,422 23303 INFO bitnami_openerp openerp.modules.loading: loading base/base_data.xml
+2016-03-05 07:26:42,747 23303 INFO bitnami_openerp openerp.modules.loading: loading base/res/res_currency_data.xml
+2016-03-05 07:26:46,036 23303 INFO bitnami_openerp openerp.modules.loading: loading base/res/res_country_data.xml
+2016-03-05 07:26:50,353 23303 INFO bitnami_openerp openerp.modules.loading: loading base/security/base_security.xml
+2016-03-05 07:26:50,672 23303 INFO bitnami_openerp openerp.modules.loading: loading base/base_menu.xml
+2016-03-05 07:26:51,180 23303 INFO bitnami_openerp openerp.modules.loading: loading base/res/res_config.xml
+2016-03-05 07:26:51,262 23303 INFO bitnami_openerp openerp.modules.loading: loading base/res/res.country.state.csv
+2016-03-05 07:26:51,941 23303 INFO bitnami_openerp openerp.modules.loading: loading base/ir/ir_actions.xml
+2016-03-05 07:26:52,902 23303 INFO bitnami_openerp openerp.modules.loading: loading base/ir/ir_config_parameter_view.xml
+2016-03-05 07:26:53,244 23303 INFO bitnami_openerp openerp.modules.loading: loading base/ir/ir_cron_view.xml
+2016-03-05 07:26:53,436 23303 INFO bitnami_openerp openerp.modules.loading: loading base/ir/ir_filters.xml
+2016-03-05 07:26:53,625 23303 INFO bitnami_openerp openerp.modules.loading: loading base/ir/ir_mail_server_view.xml
+2016-03-05 07:26:53,797 23303 INFO bitnami_openerp openerp.modules.loading: loading base/ir/ir_model_view.xml
+2016-03-05 07:26:54,833 23303 INFO bitnami_openerp openerp.modules.loading: loading base/ir/ir_attachment_view.xml
+2016-03-05 07:26:55,068 23303 INFO bitnami_openerp openerp.modules.loading: loading base/ir/ir_rule_view.xml
+2016-03-05 07:26:55,264 23303 INFO bitnami_openerp openerp.modules.loading: loading base/ir/ir_sequence_view.xml
+2016-03-05 07:26:55,592 23303 INFO bitnami_openerp openerp.modules.loading: loading base/ir/ir_translation_view.xml
+2016-03-05 07:26:55,820 23303 INFO bitnami_openerp openerp.modules.loading: loading base/ir/ir_ui_menu_view.xml
+2016-03-05 07:26:55,989 23303 INFO bitnami_openerp openerp.modules.loading: loading base/ir/ir_ui_view_view.xml
+2016-03-05 07:26:56,463 23303 INFO bitnami_openerp openerp.modules.loading: loading base/ir/ir_values_view.xml
+2016-03-05 07:26:56,803 23303 INFO bitnami_openerp openerp.modules.loading: loading base/ir/osv_memory_autovacuum.xml
+2016-03-05 07:26:56,830 23303 INFO bitnami_openerp openerp.modules.loading: loading base/ir/ir_model_report.xml
+2016-03-05 07:26:56,877 23303 INFO bitnami_openerp openerp.modules.loading: loading base/ir/ir_logging_view.xml
+2016-03-05 07:26:57,081 23303 INFO bitnami_openerp openerp.modules.loading: loading base/ir/ir_qweb.xml
+2016-03-05 07:26:57,148 23303 INFO bitnami_openerp openerp.modules.loading: loading base/workflow/workflow_view.xml
+2016-03-05 07:26:58,126 23303 INFO bitnami_openerp openerp.modules.loading: loading base/module/module_view.xml
+2016-03-05 07:26:58,539 23303 INFO bitnami_openerp openerp.modules.loading: loading base/module/module_data.xml
+2016-03-05 07:26:58,812 23303 INFO bitnami_openerp openerp.modules.loading: loading base/module/module_report.xml
+2016-03-05 07:26:58,855 23303 INFO bitnami_openerp openerp.modules.loading: loading base/module/wizard/base_module_update_view.xml
+2016-03-05 07:26:58,949 23303 INFO bitnami_openerp openerp.modules.loading: loading base/module/wizard/base_language_install_view.xml
+2016-03-05 07:26:59,033 23303 INFO bitnami_openerp openerp.modules.loading: loading base/module/wizard/base_import_language_view.xml
+2016-03-05 07:26:59,117 23303 INFO bitnami_openerp openerp.modules.loading: loading base/module/wizard/base_module_upgrade_view.xml
+2016-03-05 07:26:59,326 23303 INFO bitnami_openerp openerp.modules.loading: loading base/module/wizard/base_module_configuration_view.xml
+2016-03-05 07:26:59,380 23303 INFO bitnami_openerp openerp.modules.loading: loading base/module/wizard/base_export_language_view.xml
+2016-03-05 07:26:59,477 23303 INFO bitnami_openerp openerp.modules.loading: loading base/module/wizard/base_update_translations_view.xml
+2016-03-05 07:26:59,584 23303 INFO bitnami_openerp openerp.modules.loading: loading base/module/wizard/base_module_immediate_install.xml
+2016-03-05 07:26:59,621 23303 INFO bitnami_openerp openerp.modules.loading: loading base/res/res_company_view.xml
+2016-03-05 07:27:00,080 23303 INFO bitnami_openerp openerp.modules.loading: loading base/res/res_request_view.xml
+2016-03-05 07:27:00,395 23303 INFO bitnami_openerp openerp.modules.loading: loading base/res/res_lang_view.xml
+2016-03-05 07:27:00,650 23303 INFO bitnami_openerp openerp.modules.loading: loading base/res/res_partner_report.xml
+2016-03-05 07:27:00,713 23303 INFO bitnami_openerp openerp.modules.loading: loading base/res/res_partner_view.xml
+2016-03-05 07:27:01,661 23303 INFO bitnami_openerp openerp.modules.loading: loading base/res/res_bank_view.xml
+2016-03-05 07:27:02,192 23303 INFO bitnami_openerp openerp.modules.loading: loading base/res/res_country_view.xml
+2016-03-05 07:27:02,649 23303 INFO bitnami_openerp openerp.modules.loading: loading base/res/res_currency_view.xml
+2016-03-05 07:27:02,846 23303 INFO bitnami_openerp openerp.modules.loading: loading base/res/res_users_view.xml
+2016-03-05 07:27:03,599 23303 INFO bitnami_openerp openerp.modules.loading: loading base/res/res_partner_data.xml
+2016-03-05 07:27:03,752 23303 INFO bitnami_openerp openerp.modules.loading: loading base/res/ir_property_view.xml
+2016-03-05 07:27:04,005 23303 INFO bitnami_openerp openerp.modules.loading: loading base/res/res_security.xml
+2016-03-05 07:27:04,306 23303 INFO bitnami_openerp openerp.modules.loading: loading base/security/ir.model.access.csv
+2016-03-05 07:27:11,068 23303 INFO bitnami_openerp openerp.modules.loading: 1 modules loaded in 72.88s, 0 queries
+2016-03-05 07:27:11,069 23303 INFO bitnami_openerp openerp.modules.loading: updating modules list
+2016-03-05 07:27:14,997 23303 INFO ? openerp.addons.bus.bus: Bus.loop listen imbus on db postgres
+2016-03-05 07:27:17,468 23303 INFO bitnami_openerp openerp.addons.report.models.report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf
+2016-03-05 07:27:19,322 23303 INFO bitnami_openerp openerp.http: HTTP Configuring static files
+2016-03-05 07:27:21,762 23303 INFO bitnami_openerp openerp.modules.loading: loading 1 modules...
+2016-03-05 07:27:21,889 23303 INFO bitnami_openerp openerp.modules.loading: 1 modules loaded in 0.13s, 0 queries
+2016-03-05 07:27:22,617 23303 INFO bitnami_openerp openerp.modules.loading: loading 30 modules...
+2016-03-05 07:27:22,902 23303 INFO bitnami_openerp openerp.modules.module: module auth_crypt: creating or updating database tables
+2016-03-05 07:27:23,050 23303 INFO bitnami_openerp openerp.addons.auth_crypt.auth_crypt: Hashing passwords, may be slow for databases with many users...
+2016-03-05 07:27:23,550 23303 INFO bitnami_openerp openerp.modules.module: module resource: creating or updating database tables
+2016-03-05 07:27:24,907 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'company_id'
+2016-03-05 07:27:24,911 23303 INFO bitnami_openerp openerp.modules.loading: loading resource/security/ir.model.access.csv
+2016-03-05 07:27:25,059 23303 INFO bitnami_openerp openerp.modules.loading: loading resource/security/resource_security.xml
+2016-03-05 07:27:25,103 23303 INFO bitnami_openerp openerp.modules.loading: loading resource/resource_view.xml
+2016-03-05 07:27:26,615 23303 INFO bitnami_openerp openerp.modules.module: module web: creating or updating database tables
+2016-03-05 07:27:26,618 23303 INFO bitnami_openerp openerp.modules.loading: loading web/views/webclient_templates.xml
+2016-03-05 07:27:28,312 23303 INFO bitnami_openerp openerp.modules.module: module base_import: creating or updating database tables
+2016-03-05 07:27:31,513 23303 INFO bitnami_openerp openerp.modules.loading: loading base_import/security/ir.model.access.csv
+2016-03-05 07:27:31,705 23303 INFO bitnami_openerp openerp.modules.loading: loading base_import/views/base_import.xml
+2016-03-05 07:27:32,109 23303 INFO bitnami_openerp openerp.modules.module: module board: creating or updating database tables
+2016-03-05 07:27:32,389 23303 INFO bitnami_openerp openerp.modules.loading: loading board/security/ir.model.access.csv
+2016-03-05 07:27:32,424 23303 INFO bitnami_openerp openerp.modules.loading: loading board/board_view.xml
+2016-03-05 07:27:32,527 23303 INFO bitnami_openerp openerp.modules.loading: loading board/board_mydashboard_view.xml
+2016-03-05 07:27:32,621 23303 INFO bitnami_openerp openerp.modules.loading: loading board/views/board.xml
+2016-03-05 07:27:32,955 23303 INFO bitnami_openerp openerp.modules.module: module bus: creating or updating database tables
+2016-03-05 07:27:33,223 23303 INFO bitnami_openerp openerp.modules.loading: loading bus/views/bus.xml
+2016-03-05 07:27:33,301 23303 INFO bitnami_openerp openerp.modules.loading: loading bus/security/ir.model.access.csv
+2016-03-05 07:27:33,596 23303 INFO bitnami_openerp openerp.modules.module: module report: creating or updating database tables
+2016-03-05 07:27:34,409 23303 INFO bitnami_openerp openerp.modules.loading: loading report/views/layouts.xml
+2016-03-05 07:27:34,857 23303 INFO bitnami_openerp openerp.modules.loading: loading report/views/views.xml
+2016-03-05 07:27:35,234 23303 INFO bitnami_openerp openerp.modules.loading: loading report/data/report_paperformat.xml
+2016-03-05 07:27:35,286 23303 INFO bitnami_openerp openerp.modules.loading: loading report/security/ir.model.access.csv
+2016-03-05 07:27:35,325 23303 INFO bitnami_openerp openerp.modules.loading: loading report/views/report.xml
+2016-03-05 07:27:35,966 23303 INFO bitnami_openerp openerp.modules.module: module web_calendar: creating or updating database tables
+2016-03-05 07:27:35,969 23303 INFO bitnami_openerp openerp.modules.loading: loading web_calendar/views/web_calendar.xml
+2016-03-05 07:27:36,267 23303 INFO bitnami_openerp openerp.modules.module: module web_diagram: creating or updating database tables
+2016-03-05 07:27:36,271 23303 INFO bitnami_openerp openerp.modules.loading: loading web_diagram/views/web_diagram.xml
+2016-03-05 07:27:36,651 23303 INFO bitnami_openerp openerp.modules.module: module web_gantt: creating or updating database tables
+2016-03-05 07:27:36,654 23303 INFO bitnami_openerp openerp.modules.loading: loading web_gantt/views/web_gantt.xml
+2016-03-05 07:27:37,010 23303 INFO bitnami_openerp openerp.modules.module: module web_graph: creating or updating database tables
+2016-03-05 07:27:37,013 23303 INFO bitnami_openerp openerp.modules.loading: loading web_graph/views/web_graph.xml
+2016-03-05 07:27:37,366 23303 INFO bitnami_openerp openerp.modules.module: module web_kanban: creating or updating database tables
+2016-03-05 07:27:37,369 23303 INFO bitnami_openerp openerp.modules.loading: loading web_kanban/views/web_kanban.xml
+2016-03-05 07:27:37,729 23303 INFO bitnami_openerp openerp.modules.module: module web_view_editor: creating or updating database tables
+2016-03-05 07:27:37,732 23303 INFO bitnami_openerp openerp.modules.loading: loading web_view_editor/views/web_view_editor.xml
+2016-03-05 07:27:38,080 23303 INFO bitnami_openerp openerp.modules.module: module base_setup: creating or updating database tables
+2016-03-05 07:27:38,824 23303 INFO bitnami_openerp openerp.modules.loading: loading base_setup/security/ir.model.access.csv
+2016-03-05 07:27:38,848 23303 INFO bitnami_openerp openerp.modules.loading: loading base_setup/base_setup_views.xml
+2016-03-05 07:27:38,983 23303 INFO bitnami_openerp openerp.modules.loading: loading base_setup/res_config_view.xml
+2016-03-05 07:27:39,217 23303 INFO bitnami_openerp openerp.modules.loading: loading base_setup/res_partner_view.xml
+2016-03-05 07:27:39,315 23303 INFO bitnami_openerp openerp.modules.loading: loading base_setup/views/base_setup.xml
+2016-03-05 07:27:39,957 23303 INFO bitnami_openerp openerp.modules.module: module im_chat: creating or updating database tables
+2016-03-05 07:27:41,143 23303 INFO bitnami_openerp openerp.addons.auth_crypt.auth_crypt: Hashing passwords, may be slow for databases with many users...
+2016-03-05 07:27:41,244 23303 INFO bitnami_openerp openerp.modules.loading: loading im_chat/security/ir.model.access.csv
+2016-03-05 07:27:41,423 23303 INFO bitnami_openerp openerp.modules.loading: loading im_chat/security/im_security.xml
+2016-03-05 07:27:41,514 23303 INFO bitnami_openerp openerp.modules.loading: loading im_chat/views/im_chat.xml
+2016-03-05 07:27:41,879 23303 INFO bitnami_openerp openerp.modules.module: module web_kanban_gauge: creating or updating database tables
+2016-03-05 07:27:41,883 23303 INFO bitnami_openerp openerp.modules.loading: loading web_kanban_gauge/views/web_kanban_gauge.xml
+2016-03-05 07:27:42,272 23303 INFO bitnami_openerp openerp.modules.module: module web_kanban_sparkline: creating or updating database tables
+2016-03-05 07:27:42,275 23303 INFO bitnami_openerp openerp.modules.loading: loading web_kanban_sparkline/views/web_kanban_sparkline.xml
+2016-03-05 07:27:42,763 23303 INFO bitnami_openerp openerp.modules.module: module web_tests: creating or updating database tables
+2016-03-05 07:27:42,766 23303 INFO bitnami_openerp openerp.modules.loading: loading web_tests/views/web_tests.xml
+2016-03-05 07:27:43,191 23303 INFO bitnami_openerp openerp.modules.module: module im_odoo_support: creating or updating database tables
+2016-03-05 07:27:43,195 23303 INFO bitnami_openerp openerp.modules.loading: loading im_odoo_support/views/im_odoo_support.xml
+2016-03-05 07:27:43,753 23303 INFO bitnami_openerp openerp.modules.module: module mail: creating or updating database tables
+2016-03-05 07:27:48,142 23303 INFO bitnami_openerp openerp.addons.mail.mail_alias: Mail alias created for res.users admin (id 1)
+2016-03-05 07:27:48,154 23303 INFO bitnami_openerp openerp.addons.mail.mail_alias: Mail alias created for res.users public (id 3)
+2016-03-05 07:27:48,156 23303 INFO bitnami_openerp openerp.addons.auth_crypt.auth_crypt: Hashing passwords, may be slow for databases with many users...
+2016-03-05 07:27:50,349 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'image_small'
+2016-03-05 07:27:50,350 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'image_medium'
+2016-03-05 07:27:50,353 23303 INFO bitnami_openerp openerp.modules.loading: loading mail/wizard/invite_view.xml
+2016-03-05 07:27:50,411 23303 INFO bitnami_openerp openerp.modules.loading: loading mail/wizard/mail_compose_message_view.xml
+2016-03-05 07:27:50,504 23303 INFO bitnami_openerp openerp.modules.loading: loading mail/mail_message_subtype.xml
+2016-03-05 07:27:50,633 23303 INFO bitnami_openerp openerp.modules.loading: loading mail/res_config_view.xml
+2016-03-05 07:27:50,702 23303 INFO bitnami_openerp openerp.modules.loading: loading mail/mail_message_view.xml
+2016-03-05 07:27:50,939 23303 INFO bitnami_openerp openerp.modules.loading: loading mail/mail_mail_view.xml
+2016-03-05 07:27:51,106 23303 INFO bitnami_openerp openerp.modules.loading: loading mail/mail_followers_view.xml
+2016-03-05 07:27:51,497 23303 INFO bitnami_openerp openerp.modules.loading: loading mail/mail_thread_view.xml
+2016-03-05 07:27:51,908 23303 INFO bitnami_openerp openerp.modules.loading: loading mail/mail_group_view.xml
+2016-03-05 07:27:52,152 23303 INFO bitnami_openerp openerp.modules.loading: loading mail/res_partner_view.xml
+2016-03-05 07:27:52,252 23303 INFO bitnami_openerp openerp.modules.loading: loading mail/data/mail_data.xml
+2016-03-05 07:27:52,365 23303 INFO bitnami_openerp openerp.modules.loading: loading mail/data/mail_group_data.xml
+2016-03-05 07:27:52,617 23303 INFO bitnami_openerp openerp.modules.loading: loading mail/security/mail_security.xml
+2016-03-05 07:27:52,708 23303 INFO bitnami_openerp openerp.modules.loading: loading mail/security/ir.model.access.csv
+2016-03-05 07:27:52,920 23303 INFO bitnami_openerp openerp.modules.loading: loading mail/mail_alias_view.xml
+2016-03-05 07:27:53,091 23303 INFO bitnami_openerp openerp.modules.loading: loading mail/res_users_view.xml
+2016-03-05 07:27:53,285 23303 INFO bitnami_openerp openerp.modules.loading: loading mail/views/mail.xml
+2016-03-05 07:27:54,727 23303 INFO bitnami_openerp openerp.modules.module: module base_action_rule: creating or updating database tables
+2016-03-05 07:27:56,024 23303 INFO bitnami_openerp openerp.modules.loading: loading base_action_rule/base_action_rule_data.xml
+2016-03-05 07:27:56,076 23303 INFO bitnami_openerp openerp.modules.loading: loading base_action_rule/base_action_rule_view.xml
+2016-03-05 07:27:56,268 23303 INFO bitnami_openerp openerp.modules.loading: loading base_action_rule/security/ir.model.access.csv
+2016-03-05 07:27:56,688 23303 INFO bitnami_openerp openerp.modules.module: module email_template: creating or updating database tables
+2016-03-05 07:27:58,869 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'model'
+2016-03-05 07:27:58,870 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'model'
+2016-03-05 07:27:58,873 23303 INFO bitnami_openerp openerp.modules.loading: loading email_template/wizard/email_template_preview_view.xml
+2016-03-05 07:27:58,960 23303 INFO bitnami_openerp openerp.modules.loading: loading email_template/email_template_view.xml
+2016-03-05 07:27:59,127 23303 INFO bitnami_openerp openerp.modules.loading: loading email_template/res_partner_view.xml
+2016-03-05 07:27:59,367 23303 INFO bitnami_openerp openerp.modules.loading: loading email_template/ir_actions_view.xml
+2016-03-05 07:27:59,539 23303 INFO bitnami_openerp openerp.modules.loading: loading email_template/wizard/mail_compose_message_view.xml
+2016-03-05 07:27:59,606 23303 INFO bitnami_openerp openerp.modules.loading: loading email_template/security/ir.model.access.csv
+2016-03-05 07:28:00,666 23303 INFO bitnami_openerp openerp.modules.module: module fetchmail: creating or updating database tables
+2016-03-05 07:28:01,516 23303 INFO bitnami_openerp openerp.modules.loading: loading fetchmail/fetchmail_data.xml
+2016-03-05 07:28:01,557 23303 INFO bitnami_openerp openerp.modules.loading: loading fetchmail/fetchmail_view.xml
+2016-03-05 07:28:02,022 23303 INFO bitnami_openerp openerp.modules.loading: loading fetchmail/security/ir.model.access.csv
+2016-03-05 07:28:02,048 23303 INFO bitnami_openerp openerp.modules.loading: loading fetchmail/fetchmail_installer_view.xml
+2016-03-05 07:28:02,576 23303 INFO bitnami_openerp openerp.modules.module: module sales_team: creating or updating database tables
+2016-03-05 07:28:04,031 23303 INFO bitnami_openerp openerp.addons.auth_crypt.auth_crypt: Hashing passwords, may be slow for databases with many users...
+2016-03-05 07:28:04,158 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'complete_name'
+2016-03-05 07:28:04,162 23303 INFO bitnami_openerp openerp.modules.loading: loading sales_team/security/sales_team_security.xml
+2016-03-05 07:28:04,772 23303 INFO bitnami_openerp openerp.modules.loading: loading sales_team/security/ir.model.access.csv
+2016-03-05 07:28:04,835 23303 INFO bitnami_openerp openerp.modules.loading: loading sales_team/res_config_view.xml
+2016-03-05 07:28:04,940 23303 INFO bitnami_openerp openerp.modules.loading: loading sales_team/sales_team_data.xml
+2016-03-05 07:28:05,013 23303 INFO bitnami_openerp openerp.modules.loading: loading sales_team/sales_team.xml
+2016-03-05 07:28:06,305 23303 INFO bitnami_openerp openerp.modules.module: module share: creating or updating database tables
+2016-03-05 07:28:06,475 23303 INFO bitnami_openerp openerp.addons.auth_crypt.auth_crypt: Hashing passwords, may be slow for databases with many users...
+2016-03-05 07:28:07,397 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'share'
+2016-03-05 07:28:07,408 23303 INFO bitnami_openerp openerp.modules.loading: loading share/security/share_security.xml
+2016-03-05 07:28:07,675 23303 INFO bitnami_openerp openerp.modules.loading: loading share/res_users_view.xml
+2016-03-05 07:28:07,937 23303 INFO bitnami_openerp openerp.modules.loading: loading share/wizard/share_wizard_view.xml
+2016-03-05 07:28:08,090 23303 INFO bitnami_openerp openerp.modules.loading: loading share/share_data.xml
+2016-03-05 07:28:08,157 23303 INFO bitnami_openerp openerp.modules.loading: loading share/views/share.xml
+2016-03-05 07:28:08,961 23303 INFO bitnami_openerp openerp.modules.module: module auth_signup: creating or updating database tables
+2016-03-05 07:28:09,228 23303 INFO bitnami_openerp openerp.addons.auth_crypt.auth_crypt: Hashing passwords, may be slow for databases with many users...
+2016-03-05 07:28:09,309 23303 INFO bitnami_openerp openerp.modules.loading: loading auth_signup/auth_signup_data.xml
+2016-03-05 07:28:09,839 23303 INFO bitnami_openerp openerp.modules.loading: loading auth_signup/res_config.xml
+2016-03-05 07:28:09,955 23303 INFO bitnami_openerp openerp.modules.loading: loading auth_signup/res_users_view.xml
+2016-03-05 07:28:10,129 23303 INFO bitnami_openerp openerp.modules.loading: loading auth_signup/views/auth_signup_login.xml
+2016-03-05 07:28:10,838 23303 INFO bitnami_openerp openerp.modules.module: module calendar: creating or updating database tables
+2016-03-05 07:28:13,806 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'cn'
+2016-03-05 07:28:13,808 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'duration_minutes'
+2016-03-05 07:28:13,808 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'rrule'
+2016-03-05 07:28:13,809 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'start'
+2016-03-05 07:28:13,809 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'stop'
+2016-03-05 07:28:13,810 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'display_start'
+2016-03-05 07:28:13,813 23303 INFO bitnami_openerp openerp.modules.loading: loading calendar/calendar_cron.xml
+2016-03-05 07:28:13,848 23303 INFO bitnami_openerp openerp.modules.loading: loading calendar/security/ir.model.access.csv
+2016-03-05 07:28:14,059 23303 INFO bitnami_openerp openerp.modules.loading: loading calendar/security/calendar_security.xml
+2016-03-05 07:28:14,119 23303 INFO bitnami_openerp openerp.modules.loading: loading calendar/calendar_view.xml
+2016-03-05 07:28:14,644 23303 INFO bitnami_openerp openerp.modules.loading: loading calendar/calendar_data.xml
+2016-03-05 07:28:15,057 23303 INFO bitnami_openerp openerp.modules.loading: loading calendar/views/calendar.xml
+2016-03-05 07:28:16,386 23303 INFO bitnami_openerp openerp.modules.module: module crm: creating or updating database tables
+2016-03-05 07:28:20,525 23303 INFO bitnami_openerp openerp.addons.mail.mail_alias: Mail alias created for crm.case.section Direct Sales (id 1)
+2016-03-05 07:28:25,443 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'day_close'
+2016-03-05 07:28:25,445 23303 INFO bitnami_openerp openerp.models: storing computed values of fields.function 'day_open'
+2016-03-05 07:28:25,449 23303 INFO bitnami_openerp openerp.modules.loading: loading crm/crm_data.xml
+2016-03-05 07:28:25,744 23303 INFO bitnami_openerp openerp.modules.loading: loading crm/crm_lead_data.xml
+2016-03-05 07:28:26,013 23303 INFO bitnami_openerp openerp.modules.loading: loading crm/crm_phonecall_data.xml
+2016-03-05 07:28:26,035 23303 INFO bitnami_openerp openerp.modules.loading: loading crm/security/crm_security.xml
+2016-03-05 07:28:27,097 23303 INFO bitnami_openerp openerp.modules.loading: loading crm/security/ir.model.access.csv
+2016-03-05 07:28:27,498 23303 INFO bitnami_openerp openerp.modules.loading: loading crm/wizard/crm_lead_to_opportunity_view.xml
+2016-03-05 07:28:27,643 23303 INFO bitnami_openerp openerp.modules.loading: loading crm/wizard/crm_phonecall_to_phonecall_view.xml
+2016-03-05 07:28:27,711 23303 INFO bitnami_openerp openerp.modules.loading: loading crm/wizard/crm_merge_opportunities_view.xml
+2016-03-05 07:28:27,830 23303 INFO bitnami_openerp openerp.modules.loading: loading crm/crm_view.xml
+2016-03-05 07:28:29,089 23303 INFO bitnami_openerp openerp.modules.loading: loading crm/crm_phonecall_view.xml
+2016-03-05 07:28:29,463 23303 INFO bitnami_openerp openerp.modules.loading: loading crm/crm_phonecall_menu.xml
+2016-03-05 07:28:29,683 23303 INFO bitnami_openerp openerp.modules.loading: loading crm/crm_lead_view.xml
+2016-03-05 07:28:30,553 23303 INFO bitnami_openerp openerp.modules.loading: loading crm/crm_lead_menu.xml
+2016-03-05 07:28:30,788 23303 INFO bitnami_openerp openerp.modules.loading: loading crm/calendar_event_menu.xml
+2016-03-05 07:28:30,852 23303 INFO bitnami_openerp openerp.modules.loading: loading crm/report/crm_lead_report_view.xml
+2016-03-05 07:28:31,155 23303 INFO bitnami_openerp openerp.modules.loading: loading crm/report/crm_opportunity_report_view.xml
+2016-03-05 07:28:31,373 23303 INFO bitnami_openerp openerp.modules.loading: loading crm/report/crm_phonecall_report_view.xml
+2016-03-05 07:28:31,569 23303 INFO bitnami_openerp openerp.modules.loading: loading crm/res_partner_view.xml
+2016-03-05 07:28:31,888 23303 INFO bitnami_openerp openerp.modules.loading: loading crm/res_config_view.xml
+2016-03-05 07:28:32,089 23303 INFO bitnami_openerp openerp.modules.loading: loading crm/base_partner_merge_view.xml
+2016-03-05 07:28:32,310 23303 INFO bitnami_openerp openerp.modules.loading: loading crm/sales_team_view.xml
+2016-03-05 07:28:34,438 23303 INFO bitnami_openerp openerp.modules.module: module portal: creating or updating database tables
+2016-03-05 07:28:35,855 23303 INFO bitnami_openerp openerp.modules.loading: loading portal/portal_data.xml
+2016-03-05 07:28:36,052 23303 INFO bitnami_openerp openerp.modules.loading: loading portal/portal_view.xml
+2016-03-05 07:28:36,455 23303 INFO bitnami_openerp openerp.modules.loading: loading portal/wizard/portal_wizard_view.xml
+2016-03-05 07:28:36,589 23303 INFO bitnami_openerp openerp.modules.loading: loading portal/wizard/share_wizard_view.xml
+2016-03-05 07:28:36,905 23303 INFO bitnami_openerp openerp.modules.loading: loading portal/security/ir.model.access.csv
+2016-03-05 07:28:36,998 23303 INFO bitnami_openerp openerp.modules.loading: loading portal/views/portal.xml
+2016-03-05 07:28:37,814 23303 INFO bitnami_openerp openerp.addons.base.ir.ir_translation: module portal: loading translation file (en_US) for language en_US
+2016-03-05 07:28:37,814 23303 INFO bitnami_openerp openerp.tools.translate: loading /home/administrator/second3/apps/odoo/lib/odoo-8.0_a2115ef-py2.7.egg/openerp/addons/portal/i18n/en_US.po
+2016-03-05 07:28:38,517 23303 INFO bitnami_openerp openerp.modules.loading: 30 modules loaded in 75.90s, 0 queries
+2016-03-05 07:28:38,521 23303 INFO bitnami_openerp openerp.modules.loading: loading 30 modules...
+2016-03-05 07:28:38,782 23303 INFO bitnami_openerp openerp.modules.loading: 30 modules loaded in 0.26s, 0 queries
+2016-03-05 07:28:38,810 23303 INFO bitnami_openerp openerp.modules.loading: loading 30 modules...
+2016-03-05 07:28:39,080 23303 INFO bitnami_openerp openerp.modules.loading: 30 modules loaded in 0.27s, 0 queries
+2016-03-05 07:28:39,084 23303 INFO bitnami_openerp openerp.modules.loading: loading 30 modules...
+2016-03-05 07:28:39,360 23303 INFO bitnami_openerp openerp.modules.loading: 30 modules loaded in 0.27s, 0 queries
+2016-03-05 07:28:40,465 23303 INFO bitnami_openerp openerp.modules.loading: Modules loaded.
+2016-03-05 07:28:40,467 23303 INFO bitnami_openerp openerp.models: Computing parent left and right for table ir_ui_menu...
+2016-03-05 07:28:40,608 23303 INFO bitnami_openerp openerp.service.server: Initiating shutdown
+2016-03-05 07:28:40,608 23303 INFO bitnami_openerp openerp.service.server: Hit CTRL-C again or send a second signal to force the shutdown.
+2016-03-05 07:28:59,130 24042 INFO ? openerp: OpenERP version 8.0-a2115ef
+2016-03-05 07:28:59,130 24042 INFO ? openerp: addons paths: ['/home/administrator/second3/apps/odoo/data/addons/8.0', u'/home/administrator/second3/apps/odoo/lib/odoo-8.0_a2115ef-py2.7.egg/openerp/addons']
+2016-03-05 07:28:59,130 24042 INFO ? openerp: database hostname: 127.0.0.1
+2016-03-05 07:28:59,130 24042 INFO ? openerp: database port: 5456
+2016-03-05 07:28:59,130 24042 INFO ? openerp: database user: bn_openerp
+2016-03-05 07:28:59,415 24042 INFO ? openerp.service.server: HTTP service (werkzeug) running on 0.0.0.0:8080
+2016-03-05 07:28:59,466 24042 INFO bitnami_openerp openerp.modules.loading: loading 1 modules...
+2016-03-05 07:28:59,917 24042 INFO bitnami_openerp openerp.modules.loading: 1 modules loaded in 0.45s, 0 queries
+2016-03-05 07:28:59,944 24042 INFO bitnami_openerp openerp.modules.loading: loading 30 modules...
+2016-03-05 07:29:00,436 24042 INFO ? openerp.addons.bus.bus: Bus.loop listen imbus on db postgres
+2016-03-05 07:29:00,527 24042 INFO bitnami_openerp openerp.addons.report.models.report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf
+2016-03-05 07:29:02,030 24042 INFO bitnami_openerp openerp.modules.loading: 30 modules loaded in 2.08s, 0 queries
+2016-03-05 07:29:02,408 24042 INFO bitnami_openerp openerp.modules.loading: Modules loaded.
+2016-03-05 07:29:20,935 24106 INFO ? openerp: OpenERP version 8.0-a2115ef
+2016-03-05 07:29:20,935 24106 INFO ? openerp: addons paths: ['/home/administrator/second3/apps/odoo/data/addons/8.0', u'/home/administrator/second3/apps/odoo/lib/odoo-8.0_a2115ef-py2.7.egg/openerp/addons']
+2016-03-05 07:29:20,935 24106 INFO ? openerp: database hostname: 127.0.0.1
+2016-03-05 07:29:20,935 24106 INFO ? openerp: database port: 5456
+2016-03-05 07:29:20,935 24106 INFO ? openerp: database user: bn_openerp
+2016-03-05 07:29:21,229 24106 INFO ? openerp.service.server: Evented Service (longpolling) running on 0.0.0.0:8072
+2016-03-05 07:29:24,495 24042 INFO bitnami_openerp openerp.service.server: Initiating shutdown
+2016-03-05 07:29:24,495 24042 INFO bitnami_openerp openerp.service.server: Hit CTRL-C again or send a second signal to force the shutdown.
+2016-03-05 07:29:42,974 23909 INFO ? openerp.addons.report.models.report: Will use the Wkhtmltopdf binary at /usr/local/bin/wkhtmltopdf
+2016-03-05 07:29:43,493 23909 INFO ? openerp.http: HTTP Configuring static files
+2016-03-05 07:29:43,627 23909 INFO bitnami_openerp openerp.modules.loading: loading 1 modules...
+2016-03-05 07:29:44,042 23909 INFO bitnami_openerp openerp.modules.loading: 1 modules loaded in 0.41s, 0 queries
+2016-03-05 07:29:44,069 23909 INFO bitnami_openerp openerp.modules.loading: loading 30 modules...
+2016-03-05 07:29:45,058 23909 INFO bitnami_openerp openerp.modules.loading: 30 modules loaded in 0.97s, 0 queries
+2016-03-05 07:29:45,523 23909 INFO bitnami_openerp openerp.modules.loading: Modules loaded.
+2016-03-05 07:29:45,528 23909 INFO bitnami_openerp openerp.addons.base.ir.ir_http: Generating routing map

@@ -1,0 +1,19 @@
+============ CHANGELOG =============
+
+Version 8.0-5      2014-12-18
+
+Version 8.0-4      2014-12-12
+* Update Odoo to nightly version 8.0.20141208
+* Added support for Windows
+
+Version 8.0-3      2014-11-18
+* Fix errors after installing modules
+
+Version 8.0-2      2014-11-13
+* Update Odoo to nightly version 8.0-20141113-010212
+* Fix chat feature
+* Use "username" instead of "email" for Odoo log in
+
+Version 8.0-0 2014-09-25
+* Initial release, bundles Apache 2.4.10, Python 2.7.6,
+PostgreSQL 9.3.3 and Odoo 8.0

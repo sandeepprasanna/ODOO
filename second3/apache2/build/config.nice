@@ -1,0 +1,34 @@
+#! /bin/sh
+#
+# Created by configure
+
+CC="gcc"; export CC
+CFLAGS="-I/home/administrator/second3/common/include -fPIC -m64"; export CFLAGS
+CPPFLAGS="-I/home/administrator/second3/common/include"; export CPPFLAGS
+LDFLAGS="-L/home/administrator/second3/common/lib -liconv"; export LDFLAGS
+"./configure" \
+"--prefix=/home/administrator/second3/apache2" \
+"--enable-so" \
+"--enable-mods-shared=most" \
+"--disable-auth_dbm" \
+"--without-berkeley-db" \
+"--enable-deflate" \
+"--enable-ssl" \
+"--with-ssl=/home/administrator/second3/common" \
+"--enable-proxy" \
+"--enable-proxy-http" \
+"--enable-proxy-balancer" \
+"--enable-rewrite" \
+"--with-ldap" \
+"--enable-authnz-ldap" \
+"--enable-ldap" \
+"--with-apr=/home/administrator/second3/common/bin/apr-1-config" \
+"--with-apu=/home/administrator/second3/common/bin/apr-1-config" \
+"--with-pcre=/home/administrator/second3/common/bin/pcre-config" \
+"--enable-mpms-shared=all" \
+"--with-mpm=prefork" \
+"CC=gcc" \
+"CFLAGS=-I/home/administrator/second3/common/include -fPIC -m64" \
+"LDFLAGS=-L/home/administrator/second3/common/lib -liconv" \
+"CPPFLAGS=-I/home/administrator/second3/common/include" \
+"$@"

@@ -1,0 +1,2 @@
+export PYTHONHOME=/home/administrator/second3/python
+export LD_LIBRARY_PATH=/home/administrator/second3/python/lib:$LD_LIBRARY_PATH

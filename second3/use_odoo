@@ -1,0 +1,6 @@
+#!/bin/sh
+
+PATH="/home/administrator/second3/apps/odoo/bin:/home/administrator/second3/python/bin:/home/administrator/second3/postgresql/bin:/home/administrator/second3/apache2/bin:/home/administrator/second3/common/bin:$PATH"
+
+exec /bin/bash --noprofile --norc
+                    

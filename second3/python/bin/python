@@ -1,0 +1,5 @@
+#!/bin/sh
+
+. /home/administrator/second3/scripts/setenv.sh
+
+exec /home/administrator/second3/python/bin/.python.bin  "$@"
